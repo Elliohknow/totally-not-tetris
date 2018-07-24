@@ -1,0 +1,17 @@
+body {
+  /* display: flex;
+  justify-content: center; */
+  background: #202020;
+  color: #fffaf0;
+  font-family: monospace;
+  font-size: 2em;
+  text-align: center;
+}
+
+canvas {
+  border: inset .3em lemonchiffon;
+  height: 90vh; /* 90% of viewport height */
+}
+#score {
+  color: goldenrod;
+}
